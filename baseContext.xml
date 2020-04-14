@@ -2,7 +2,7 @@
 
 <Context>
 
-<Environment name="hostName" value="webui" type="java.lang.String" override="false"/>
+<Environment name="hostName" value="recommender" type="java.lang.String" override="false"/>
 
     <Environment name="registryURL" value="http://registry:8080/tools.descartes.teastore.registry/rest/services/"
 
